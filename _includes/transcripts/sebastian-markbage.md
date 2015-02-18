@@ -389,13 +389,13 @@ How do we remove features from existing language?
 I mean they'll never be removed from the web, because you can't remove things from the web, but it can be removed from our industry's mental surface area.
 
 > ##### JS on a Diet
->   1) Slow moving standards.     Use polyfills instead of libs.
+>   1) Slow moving standards.     **Use polyfills instead of libs.**
 >
->   2) Spaghetti code.            Explicit repetitive code.
+>   2) Spaghetti code.            **Explicit repetitive code.**
 >
->   3) Almost never add sugar.    Only abstract to solve bugs.
+>   3) Almost never add sugar.    **Only abstract to solve bugs.**
 >
->   4) Burn as much as you add.   Rethink the stack and purge.
+>   4) Burn as much as you add.   **Rethink the stack and purge.**
 
 So, let's put JS on a diet.
 Use polyfills instead of libraries, write explicit and repetitive code, only abstract to actually solve bugs, not because it looks better.
